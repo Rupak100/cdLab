@@ -116,3 +116,5 @@ print(-t1+t2*t3); /* this is a comment */
 } endif
 }
 */
+
+//to run after pasting the code press ctrl+Z than enter
